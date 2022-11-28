@@ -67,7 +67,8 @@ In order to start the console, you must use the following command: ./console.py
             (hbnb) 
             $
 
-
+# AUTHORS
+ Ashaolu Peter <pyrotech.sv@gmail.com>
 
 
 
